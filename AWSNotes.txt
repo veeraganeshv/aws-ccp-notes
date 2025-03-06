@@ -1,2 +1,3 @@
 Traditional IT Overview
+  - Server On premise or bought from vendor
 What is Cloud Computing
