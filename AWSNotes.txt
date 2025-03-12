@@ -3,6 +3,7 @@ Traditional IT Overview
   - Client -> Internet -> Server(software hosted)
   - File System (data storage)
   - Databases
+  -API
 What is Cloud Computing
 Types of Cloud Computing
 AWS, AZURE, GCP
