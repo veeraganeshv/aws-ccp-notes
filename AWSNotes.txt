@@ -5,5 +5,8 @@ Traditional IT Overview
   - Databases
   -API
 What is Cloud Computing
+  - Private Cloud (Personal server space provided by server company)
+  - Public Cloud (AWS, GCP, AZURE)
+  - Hybrid Cloud (Combination of private and public)
 Types of Cloud Computing
 AWS, AZURE, GCP
