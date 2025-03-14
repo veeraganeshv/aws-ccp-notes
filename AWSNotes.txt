@@ -8,5 +8,6 @@ What is Cloud Computing
   - Private Cloud (Personal server space provided by server company)
   - Public Cloud (AWS, GCP, AZURE)
   - Hybrid Cloud (Combination of private and public)
+Each Cloud services provide services for different use cases
 Types of Cloud Computing
 AWS, AZURE, GCP
