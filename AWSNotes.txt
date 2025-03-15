@@ -10,9 +10,16 @@ What is Cloud Computing
   - We can procure exact size and type of compute based on our requirement.
   - We can scale it instantly without hassle.
   - Simple way to access server, DBs, storage, and other application services.
-EX: AWS owns and maintains these hardware and connected software services, that we can purchase and use the required services based on our need through their AWS web application.
+EX: AWS owns and maintains these hardware and connected software services, that we can purchase and use the required services based on our need through their AWS web application (AWS CONSOLE UI).
+
+An application that stores files and photos. It uses AWS storage services and an application is built on top of it for file storage. then it's a cloud application/service.
+Some cloud apps/services are Gmail, Dropbox, Mega, Netflix, Spotify. These services use any cloud computing services like AWS, AZURE, GCP and build their cloud services.
+
+ex: Netflix mainly uses AWS for their on-demand video streaming.
+    Google Photos uses GCP storage services
+
 Types
-  - Private Cloud (Personal server space provided by server company)
+  - Private Cloud (Personal server space provided by server company) ex: Rackspace, Digital ocean, etc.
   - Public Cloud (AWS, GCP, AZURE)
   - Hybrid Cloud (Combination of private and public)
 Each Cloud services provide services for different use cases
