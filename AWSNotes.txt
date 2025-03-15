@@ -5,7 +5,11 @@ Traditional IT Overview
   - Databases
   -API
 What is Cloud Computing
-  - On demand Delivery of compute power, DB, apps, and other it resources.
+  - On-demand Delivery of compute power, DB, apps, and other it resources.
+  - Cloud service platforms provide us pay as you go pricing.
+  - We can procure exact size and type of compute based on our requirement.
+  - We can scale it instantly without hassle.
+  - Simple way to access server, DBs, storage, and other application services.
 Types
   - Private Cloud (Personal server space provided by server company)
   - Public Cloud (AWS, GCP, AZURE)
