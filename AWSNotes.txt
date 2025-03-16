@@ -21,7 +21,7 @@ ex: Netflix mainly uses AWS for their on-demand video streaming.
 Types
   - Private Cloud (Personal server space provided by server company) ex: Rackspace, Digital ocean, etc.
   - Public Cloud (AWS, GCP, AZURE)
-  - Hybrid Cloud (Combination of private and public)
+  - Hybrid Cloud (Combination of private and public) where sensitive data stored in onpremise setup whereas other data processed/stored in cloud computing services.
 Each Cloud services provide services for different use cases
 Types of Cloud Computing
 AWS, AZURE, GCP
