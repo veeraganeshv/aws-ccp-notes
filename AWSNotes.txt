@@ -23,5 +23,10 @@ Types
   - Public Cloud (AWS, GCP, AZURE)
   - Hybrid Cloud (Combination of private and public) where sensitive data stored in onpremise setup whereas other data processed/stored in cloud computing services.
 Each Cloud services provide services for different use cases
-Types of Cloud Computing
 AWS, AZURE, GCP
+5 Characteristics of cloud computing
+  - On Demand
+  - Broad Networking
+  - Multi-tenancy and resource pooling
+  - Rapid Elasticity and Scalability
+  - Measured Service
