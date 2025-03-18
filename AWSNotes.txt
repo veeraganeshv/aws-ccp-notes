@@ -30,3 +30,5 @@ AWS, AZURE, GCP
   - Multi-tenancy and resource pooling
   - Rapid Elasticity and Scalability
   - Measured Service -> Uage is measured, So Pay for only what you use
+Advantages of Cloud Computing
+  - 
