@@ -21,14 +21,19 @@ ex: Netflix mainly uses AWS for their on-demand video streaming.
 Types
   - Private Cloud (Personal server space provided by server company) ex: Rackspace, Digital ocean, etc.
   - Public Cloud (AWS, GCP, AZURE)
-  - Hybrid Cloud (Combination of private and public) where sensitive data stored in onpremise setup whereas other data processed/stored in cloud computing services.
+  - Hybrid Cloud (Combination of private and public) where sensitive data is stored in on-premise setup whereas other data is processed/stored in cloud computing services.
 Each Cloud services provide services for different use cases
 AWS, AZURE, GCP
-5 Characteristics of cloud computing
-  - On Demand
+5 Characteristics of Cloud Computing
+  - On-Demand
   - Broad Networking
   - Multi-tenancy and resource pooling
   - Rapid Elasticity and Scalability
   - Measured Service -> Uage is measured, So Pay for only what you use
 Advantages of Cloud Computing
-  - 
+  - Don't Own Hardware, pay for what you use (CAPEX for OPEX), Reduce total cost of ownership
+  - Massive adoption of cloud computing will decrease the price
+  - Scale based on actual usage
+  - speed and agility due to on-demand availability
+  - No hassle of maintaining own data centres
+  - easy subscription and way to get the application online
