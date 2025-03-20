@@ -36,4 +36,11 @@ Advantages of Cloud Computing
   - Scale based on actual usage
   - speed and agility due to on-demand availability
   - No hassle of maintaining own data centres
-  - easy subscription and way to get the application online
+  - easy subscription and a fast way to get the application online
+Problems Solved by Cloud Computing
+  - Flexibility
+  - Scalability
+  - Cost Effectiveness
+  - Elasticity
+  - High Availability and Fault Tolerance
+  - Agility -> rapidly develop, test and deploy apps to production / launch software rapidly.
