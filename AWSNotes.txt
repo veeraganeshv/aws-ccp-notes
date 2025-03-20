@@ -41,3 +41,6 @@ Problems Solved by Cloud Computing
   - Flexibility
   - Scalability
   - Cost Effectiveness
+  - Elasticity
+  - High Availability and Fault Tolerance
+  - Agility -> rapidly develop, test and deploy apps to production / launch software rapidly.
