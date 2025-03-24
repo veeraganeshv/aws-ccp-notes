@@ -11,7 +11,7 @@
 ## Software as a Service
   - The Service provider has a Cloud service readily available and maintained to be used by the Org based on its needs. eg: AWS Dynamo DB
 
-Ex:
+## Ex:
   - IaaS
      1. AWS EC2
      2. Digital Ocean, Rackspace, Linode, GCP, AZure
@@ -21,3 +21,10 @@ Ex:
   - SaaS
      1. There are many AWS services such as Rekognition for Machine Learning
      2. Gmail Suite, Windows office 365 Apps, Drop box, Zoom.
+
+## Pricing
+  Pay as you go Pricing model
+  - AWS pricing is different for different use cases.
+  - For Compute, Pay for what you use/compute time.
+  - For Data storage, Pay for the stored amount of data.
+  - For Networking, Data transfer OUT is payable but Data Transfer In is FREE.
