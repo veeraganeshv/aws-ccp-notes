@@ -25,9 +25,10 @@
  - Each AZ is one or more discrete data centers with redundant power, network and connectivity
  - They are isolated from each other, so that if one goes down due to a disaster, the other works as expected.
  - All AZs are connected with high bandwidth, low latency connections, all together forming a region.
-### AWS Data Centers
-### AWS Edge Locations/Point of Presence
 
+### AWS Edge Locations/Point of Presence
+- AWS has more than 400+ POPs and 10+ regional caches all over the world.
+- Content delivery to the user is achieved with lower latency.
   
 ## Security
 
