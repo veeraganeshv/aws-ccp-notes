@@ -9,7 +9,11 @@
 - used in enterprise IT, Backup and storage, Data analytics, web hosting, backend for mobile and social apps, and building and deploying scalable gaming servers for millions of users.
 
 ## AWS Global Infrastructures
-- AWS Regions
+### AWS Regions
+- It is a Cluster of data centers. It is present all around the world.
+- Names can be us-east-1, ap-south-2.
+- Most AWS services are region-scoped. ( That means if we use one service in one region, then if we use the same service in another region, it is using a new service for that particular region.)
+  
 - AWS Availability Zones
 - AWS Data Centers
 - AWS Edge Locations/Point of Presence
