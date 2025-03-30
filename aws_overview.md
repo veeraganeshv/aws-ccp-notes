@@ -20,6 +20,10 @@
  - Availability of Services ( New services might not be available in every region )
  - Pricing ( Different pricing for different regions )
 ### AWS Availability Zones
+ - Minimum 3 availability zones, max 6 can be present in a region.
+   - ap-southeast-2a, ap-southeast-2b, ap-southeast-2c
+ - Each AZ is one or more discrete data centers with redundant power, network and connectivity
+ - They are isolated from each other, so that if one goes down due to a disaster, the other works as expected.
 ### AWS Data Centers
 ### AWS Edge Locations/Point of Presence
 
