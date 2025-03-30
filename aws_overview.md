@@ -8,8 +8,13 @@
 - Can be used in a diverse set of industries.
 - used in enterprise IT, Backup and storage, Data analytics, web hosting, backend for mobile and social apps, and building and deploying scalable gaming servers for millions of users.
 
-## Services
-
+## AWS Global Infrastructures
+- AWS Regions
+- AWS Availability Zones
+- AWS Data Centers
+- AWS Edge Locations/Point of Presence
+- Can be found in infrastructure.aws
+  
 ## Security
 
 ## Availability
