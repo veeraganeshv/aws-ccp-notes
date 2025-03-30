@@ -14,7 +14,11 @@
 - It is a Cluster of data centers. It is present all around the world.
 - Names can be us-east-1, ap-south-2.
 - Most AWS services are region-scoped. ( That means if we use one service in one region, then if we use the same service in another region, it is using a new service for that particular region.)
-### How to Choose an AWS Region (Very Important)  
+### How to Choose an AWS Region ( Very Important )  
+ - Compliance ( for data security and govt regulations, data never leaves the region without explicit permission )
+ - Proximity ( for reduced latency )
+ - Availability of Services ( New services might not be available in every region )
+ - Pricing ( Different pricing for different regions )
 ### AWS Availability Zones
 ### AWS Data Centers
 ### AWS Edge Locations/Point of Presence
