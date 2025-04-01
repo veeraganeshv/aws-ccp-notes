@@ -5,4 +5,5 @@
   - Users are people in the organization and can be grouped. Some users are also not in any group (not a best practice).
   - Users can also belong to multiple groups.
   - Groups only contain users, not other groups.
+  - ex: Group: Developers -> Anna, Carter, Sid  | Group: Operations -> Blake, Levi, | Group: Testers -> Zoro, Luffy
 # IAM: Permissions
