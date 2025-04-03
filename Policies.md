@@ -1,3 +1,3 @@
 # AWS IAM Policies
-  - IAM has many inbuild policies
-  - We can create our policy as well
+  - IAM has many inbuilt policies
+  - We can create our own policy as well
