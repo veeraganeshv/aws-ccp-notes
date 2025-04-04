@@ -7,7 +7,8 @@
   - Policies can be edited as json or added from the list of apis
 
     Ex: Grant read and write access to Amazon S3 bucket objects policy
-
+    
+    Replace **bucket-name** with aws s3 bucketname
     ```
     {
     "Version": "2012-10-17",
