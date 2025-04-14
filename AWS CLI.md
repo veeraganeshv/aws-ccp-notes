@@ -10,6 +10,8 @@
   - Access ID and KEY can be generated from AWS Web console.
   - Access Key and ID can be generated for many use cases like Accessing AWS using AWS CLI, an Application running on AWS services requires ID and Key, for the Application to log in to AWS, or for other 3rd party logins.
   - While generating AWS Access Key and ID, AWS also recommends alternative approaches to use AWS Services. ex: Cloud Shell from web console or AWS IAM login from AWS CLI V2.
+  - Use Cmd "aws configure" to enter Secret ID and Key and set your region.
+  - after login, you can use aws cmds. ex: aws list iam list-users, it will give you output if your user got access else return empty.
 
     ![image](https://github.com/user-attachments/assets/b195afa9-b166-4956-9947-a8b87cf7d3a3)
 
