@@ -6,4 +6,5 @@
   - AWS Cli allows all actions based on access provided to an user. ex: IAM User can access things based on their allowed permissions/roles.
 
 ## AWS Secret Access key ID and Access Key
-  - We Can generate AWS Secret Access Id and Key and use it to log into AWS from AWS CLI.
+  - We can generate AWS Secret Access ID and KEY and use them to log into AWS from AWS CLI.
+  - Access ID and KEY can be generated from AWS Web console.
