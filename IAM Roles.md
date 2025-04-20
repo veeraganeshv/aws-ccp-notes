@@ -7,4 +7,6 @@
     
      Ex: Role Creation for EC2 Instance with read-only access to IAM of the AWS Account.
     
-     **Create Role > Choose AWS Service > EC2 > Add IAM Read Only Access in Permissions > Give Role name.**
+     **Create Role > Choose AWS Service > EC2 > Add IAM Read Only Access in Permissions > Give Role name > Save**
+
+  - Now Once the EC2 Instance created, It can be assigned with this role and it will have to IAM Read-Only Permission
