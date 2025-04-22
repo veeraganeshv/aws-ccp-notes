@@ -31,5 +31,5 @@
 - Content delivery to the user is achieved with lower latency.
   
 ## Security
+ - AWS Infrastructure is secured all around the world. The Follow a Shared Responsibility model applies to the security of all AWS Services.
 
-## Availability
