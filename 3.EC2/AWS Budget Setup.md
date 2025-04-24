@@ -9,4 +9,9 @@
     ![image](https://github.com/user-attachments/assets/3e2a37de-8c33-4080-9948-3b04b9a73ddb)
 
   - Refer to the Free Tier Information about AWS Services.
+  - Create Budject Plan for the monthly spend.
+
+    ![image](https://github.com/user-attachments/assets/8e872589-c47a-4812-8d55-d916bb28b9aa)
+
+    
 
