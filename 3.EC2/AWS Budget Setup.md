@@ -17,5 +17,6 @@
   - Zero Cost budget, Monthly Budget, Daily Savings and Custom Budget are a few examples.
   - Zero Cost Budget gives you alerts once  your free tier quota reaches 75% and 100%, and charging starts from 5 cents.
   - Monthly Budgets are budgets for monthly spending limits.
+  - Cost Spent and Billing checks are necessary, and alerts come in email, it is necessary to check emails frequently.
     
 
