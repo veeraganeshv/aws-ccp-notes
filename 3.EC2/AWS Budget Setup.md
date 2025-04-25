@@ -12,6 +12,7 @@
   - Create Budject Plan for the monthly spend.
 
     ![image](https://github.com/user-attachments/assets/8e872589-c47a-4812-8d55-d916bb28b9aa)
-
+  
+  - There are many budget templates available
     
 
