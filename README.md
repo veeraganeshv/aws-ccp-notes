@@ -6,3 +6,4 @@ Notes are based on Stephane Maarek's Course on Udemy and other learnings from AW
 Things to do:
  - Always use IAM User accounts for AWS cloud services activities.
  - Use Root Account Login only for Account and admin-related activities.
+ - Create a Budget Plan for your AWS Cloud Services use cases.
