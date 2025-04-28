@@ -7,3 +7,7 @@
 # EC2 Bootstrapping - EC2 User Data
   ![image](https://github.com/user-attachments/assets/03fc4dce-608a-4f56-9a6c-09f7a9958012)
 
+# EC2 Instance Types
+  ![image](https://github.com/user-attachments/assets/02cb1414-1d68-437a-b898-a6c61ed79295)
+
+
