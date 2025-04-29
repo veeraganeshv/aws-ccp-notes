@@ -10,4 +10,6 @@
 # EC2 Instance Types
   ![image](https://github.com/user-attachments/assets/02cb1414-1d68-437a-b898-a6c61ed79295)
 
+  - The free tier is for beginners and general-purpose usage. One should be careful when using the free tier. Once usage exceeds the free tier, billing will starts based on how much compute used.
+
 
