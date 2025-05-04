@@ -8,3 +8,4 @@ Things to do:
  - Use Root Account Login only for Account and admin-related activities.
  - Create a Budget Plan for your AWS Cloud Services use cases.
  - Budget plans will give alerts when spending reaches the limit, and regularly check emails.
+ - Stop EC2 instances when not in use.
