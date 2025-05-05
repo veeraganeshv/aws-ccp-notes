@@ -9,3 +9,4 @@ Things to do:
  - Create a Budget Plan for your AWS Cloud Services use cases.
  - Budget plans will give alerts when spending reaches the limit, and regularly check emails.
  - Stop EC2 instances when not in use.
+ - Give Clear and Short rules in EC2 User Data to get the EC2 instance started.
