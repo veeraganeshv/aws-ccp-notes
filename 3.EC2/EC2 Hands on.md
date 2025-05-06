@@ -15,6 +15,11 @@
       ![image](https://github.com/user-attachments/assets/124b7f52-0842-4aa5-998a-0ad5eea320e6)
 
     For windows 10 and above, Mac and Linux Os, select pem file type, for others (windows 7,8) use ppk file type.
+
+  - We can leave the network settings as default settings with default security groups (lauinch-wizard-1) and we can also set our own security rules like allows ssh from anywhere rule.
+
+      ![image](https://github.com/user-attachments/assets/ef522a21-6046-4b7f-99e7-be0f0b6a2af1)
+  
     
   - You can start and stop instance from ec2 instances page. 
 
