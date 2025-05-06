@@ -12,7 +12,8 @@
 
       ![image](https://github.com/user-attachments/assets/07a8da4e-0d8d-42ed-ab19-834d4f954b9e)
 
-      
+      ![image](https://github.com/user-attachments/assets/124b7f52-0842-4aa5-998a-0ad5eea320e6)
+
   - You can start and stop instance from ec2 instances page. 
 
 
