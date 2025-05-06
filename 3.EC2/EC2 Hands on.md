@@ -14,6 +14,8 @@
 
       ![image](https://github.com/user-attachments/assets/124b7f52-0842-4aa5-998a-0ad5eea320e6)
 
+    For windows 10 and above, Mac and Linux Os, select pem file type, for others (windows 7,8) use ppk file type.
+    
   - You can start and stop instance from ec2 instances page. 
 
 
