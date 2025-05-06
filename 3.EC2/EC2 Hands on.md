@@ -20,7 +20,7 @@
 
       ![image](https://github.com/user-attachments/assets/ef522a21-6046-4b7f-99e7-be0f0b6a2af1)
   
-    
+  - Set storage based on free tier allocation.  (1GB RAM and 30  GB storage FS and 750 hours bandwidth)
   - You can start and stop instance from ec2 instances page. 
 
 
