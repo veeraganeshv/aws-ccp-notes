@@ -20,7 +20,10 @@
 
       ![image](https://github.com/user-attachments/assets/ef522a21-6046-4b7f-99e7-be0f0b6a2af1)
   
-  - Set storage based on free tier allocation.  (1GB RAM and 30  GB storage FS and 750 hours bandwidth). **Select Yes in delete on termination option.** So that storage gets deleted when EC2 instance terminated.
+  - Set storage based on free tier allocation.  (1GB RAM and 30  GB storage EBS and 750 hours bandwidth). **Select Yes in delete on termination option.** So that storage gets deleted when EC2 instance terminated.
+
+      ![image](https://github.com/user-attachments/assets/686fe8a9-3146-4369-bd50-9c3cd51fba92)
+
   - You can start and stop instance from ec2 instances page. 
 
 
