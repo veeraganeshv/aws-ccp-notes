@@ -28,7 +28,10 @@
 
       ![image](https://github.com/user-attachments/assets/eb228101-de57-455d-822b-c4fee67ece66)
 
-  - Go through the summary and review the config given for the EC2 instance.
+  - Go through the summary and review the config given for the EC2 instance. Once confirmed, Launch the EC2 instance.
+
+      ![image](https://github.com/user-attachments/assets/1a176769-d5f2-4c7c-8081-d2ccc992a382)
+
   - You can start and stop instance from ec2 instances page.
     
 
