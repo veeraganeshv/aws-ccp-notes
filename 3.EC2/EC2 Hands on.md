@@ -32,6 +32,10 @@
 
       ![image](https://github.com/user-attachments/assets/1a176769-d5f2-4c7c-8081-d2ccc992a382)
 
+  - Once Launched, We can view the EC2 Instance starts and running in the instances page.
+
+      ![image](https://github.com/user-attachments/assets/3492f368-e1dc-4dd1-8e00-02fc2af10ea0)
+
   - You can start and stop instance from ec2 instances page.
     
 
