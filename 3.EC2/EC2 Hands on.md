@@ -28,6 +28,7 @@
 
       ![image](https://github.com/user-attachments/assets/eb228101-de57-455d-822b-c4fee67ece66)
 
+  - Go through the summary and review the config given for the EC2 instance.
   - You can start and stop instance from ec2 instances page.
     
 
