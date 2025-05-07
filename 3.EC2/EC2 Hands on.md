@@ -24,6 +24,11 @@
 
       ![image](https://github.com/user-attachments/assets/686fe8a9-3146-4369-bd50-9c3cd51fba92)
 
-  - You can start and stop instance from ec2 instances page. 
+  - In the Additional details section, you can add IAM user if you need, then in **User Data** section, you can add script/code that is required to start up the EC2 instance. User Data is run once to start the pod based on the cmds given.
+
+      ![image](https://github.com/user-attachments/assets/eb228101-de57-455d-822b-c4fee67ece66)
+
+  - You can start and stop instance from ec2 instances page.
+    
 
 
