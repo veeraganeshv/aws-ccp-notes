@@ -52,7 +52,7 @@
 
     **If terminate instance is selected, EBS volume will also get deleted, So storage is deleted as well.**
   
-  - If the instance is started again, a new public ip address will get generated. We should use that to check instance started as expected or not.
+  - If the instance is started again, the Private IP will stay the same always and a new public IP address will be generated. We should use that to check instance started as expected or not.
 
       ![image](https://github.com/user-attachments/assets/a104b26e-94e0-4cd0-998c-0dd3e3115d1c)
 
