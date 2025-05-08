@@ -35,8 +35,28 @@
   - Once Launched, We can view the EC2 Instance starts and running in the instances page.
 
       ![image](https://github.com/user-attachments/assets/3492f368-e1dc-4dd1-8e00-02fc2af10ea0)
+  
+  - Select and copy the public IP address from the instance details window. This IP address is used to check our service running in EC2 instance. 
 
-  - You can start and stop instance from ec2 instances page.
+      ![image](https://github.com/user-attachments/assets/5667293b-3403-403d-99b1-bb635729ab1b)
+
+  - If https is not enabled, use **http://(the public ip address)** to check the service running from browser. Ex: In User Data file, we have given hostname with ip address. 
+
+      ![image](https://github.com/user-attachments/assets/65e2b4ff-b969-45d3-9b1b-ae6e66d78e3b)
+
+  - You can start and stop instance from ec2 instances page. select which instance to stop > select instance state > click stop
     
+      ![image](https://github.com/user-attachments/assets/9765fac0-8564-48ce-96dd-874d3dd148c9)
+
+      ![image](https://github.com/user-attachments/assets/e995febb-e37c-4a8d-b78c-290567b00bf6)
+
+    **If terminate instance is selected, EBS volume will also get deleted, So storage is deleted as well.**
+  
+  - If the instance is started again, the Private IP will stay the same always and a new public IP address will be generated. We should use that to check instance started as expected or not.
+
+      ![image](https://github.com/user-attachments/assets/a104b26e-94e0-4cd0-998c-0dd3e3115d1c)
+
+
+
 
 
