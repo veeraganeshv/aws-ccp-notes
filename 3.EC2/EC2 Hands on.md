@@ -50,7 +50,9 @@
 
       ![image](https://github.com/user-attachments/assets/e995febb-e37c-4a8d-b78c-290567b00bf6)
 
-    * If terminate instance is selected, EBS volume will also get deleted, So storage is deleted as well.
+    **If terminate instance is selected, EBS volume will also get deleted, So storage is deleted as well.**
+  
+  - If the instance is started again, a new public ip address will get generated. We should use that to check instance started as expected or not. 
 
 
 
