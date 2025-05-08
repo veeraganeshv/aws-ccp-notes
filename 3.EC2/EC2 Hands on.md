@@ -35,6 +35,14 @@
   - Once Launched, We can view the EC2 Instance starts and running in the instances page.
 
       ![image](https://github.com/user-attachments/assets/3492f368-e1dc-4dd1-8e00-02fc2af10ea0)
+  
+  - Select and copy the public IP address from the instance details window. This IP address is used to check our service running in EC2 instance. 
+
+      ![image](https://github.com/user-attachments/assets/5667293b-3403-403d-99b1-bb635729ab1b)
+
+  - If https is not enabled, use **http://(the public ip address)** to check the service running from browser. Ex: In User Data file, we have given hostname with ip address. 
+
+      ![image](https://github.com/user-attachments/assets/65e2b4ff-b969-45d3-9b1b-ae6e66d78e3b)
 
   - You can start and stop instance from ec2 instances page. select which instance to stop > select instance state > click stop
     
