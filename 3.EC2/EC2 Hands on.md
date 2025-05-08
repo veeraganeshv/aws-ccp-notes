@@ -46,5 +46,6 @@
 
   - You can start and stop instance from ec2 instances page. select which instance to stop > select instance state > click stop
     
+      ![image](https://github.com/user-attachments/assets/9765fac0-8564-48ce-96dd-874d3dd148c9)
 
 
