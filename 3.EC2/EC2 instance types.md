@@ -10,3 +10,7 @@
       Free Tier is T2 (In future, AWS might update)
 
       ![image](https://github.com/user-attachments/assets/2c699ebe-a9cd-4dae-964b-23c859578761)
+
+  - Compute Optimised Instances.
+
+      ![image](https://github.com/user-attachments/assets/742ded1d-add5-4f74-8c60-f063e590cab8)
