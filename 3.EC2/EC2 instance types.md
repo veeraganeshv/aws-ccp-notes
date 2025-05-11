@@ -19,3 +19,6 @@
 
       ![image](https://github.com/user-attachments/assets/561828f3-c693-4045-9fde-5544b7b8884b)
 
+  - Storage Optimized Instances
+
+      XX
