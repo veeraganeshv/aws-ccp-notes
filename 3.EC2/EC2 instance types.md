@@ -5,3 +5,8 @@
 
        ![image](https://github.com/user-attachments/assets/b2ceeb6d-2a19-4955-b9d7-91fba4ef95ba)
 
+  - General Purpose Instances.
+
+      Free Tier is T2 (In future, AWS might update)
+
+      ![image](https://github.com/user-attachments/assets/2c699ebe-a9cd-4dae-964b-23c859578761)
