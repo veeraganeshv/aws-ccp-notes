@@ -14,3 +14,8 @@
   - Compute Optimised Instances.
 
       ![image](https://github.com/user-attachments/assets/742ded1d-add5-4f74-8c60-f063e590cab8)
+  
+  - Memory Optimised Instances.
+
+      ![image](https://github.com/user-attachments/assets/561828f3-c693-4045-9fde-5544b7b8884b)
+
