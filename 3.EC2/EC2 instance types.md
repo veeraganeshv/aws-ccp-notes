@@ -31,5 +31,6 @@
       ![image](https://github.com/user-attachments/assets/f6ebed38-5d73-47b4-bade-4c2ddd034001)
 
   - For More Comparisons of different EC2 instance types, Refer opensource tool [AWS EC2 Instance Comparison](https://instances.vantage.sh/)
+  - This open-source tool has billing information as well, it can be used for cost calculation of usage.
 
 
