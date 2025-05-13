@@ -17,6 +17,10 @@
 - Security Groups authorisation between different EC2 instances.
 
   ![image](https://github.com/user-attachments/assets/e64989ed-0003-4463-b82e-cbf98598cdb3)
-  
+
+- **Classic ports to know for certification exam**
+
+  ![image](https://github.com/user-attachments/assets/ef289caf-3f9b-4522-9ebf-e605708105d9)
+
 
 
