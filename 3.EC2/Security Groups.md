@@ -14,4 +14,9 @@
 
   ![image](https://github.com/user-attachments/assets/538a47b6-5928-4d64-8431-66b806476698)
 
+- Security Groups authorisation between different EC2 instances.
+
+  ![image](https://github.com/user-attachments/assets/e64989ed-0003-4463-b82e-cbf98598cdb3)
+  
+
 
