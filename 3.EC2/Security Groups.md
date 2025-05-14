@@ -22,5 +22,7 @@
 
   ![image](https://github.com/user-attachments/assets/ef289caf-3f9b-4522-9ebf-e605708105d9)
 
+- These ports and their working are significant for security group rules.
+
 
 
