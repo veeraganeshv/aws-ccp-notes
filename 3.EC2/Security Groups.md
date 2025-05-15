@@ -14,7 +14,7 @@
 
   ![image](https://github.com/user-attachments/assets/538a47b6-5928-4d64-8431-66b806476698)
 
-- Security Groups authorisation between different EC2 instances.
+- Security Groups authorisation between different EC2 instances. The 1st EC2 instance has inbound rules that allow access through designated ports to the 2nd and 3rd EC2 instances but not the 4rd instance.
 
   ![image](https://github.com/user-attachments/assets/e64989ed-0003-4463-b82e-cbf98598cdb3)
 
