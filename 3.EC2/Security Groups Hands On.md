@@ -13,7 +13,7 @@
 
   - There are inbound and outbound rules associated to every security group.
 
-      Inbound: traffic coming into the EC2 instance. ex: someone trying to access an EC2 instance with the IP address
+      **Inbound**: traffic coming into the EC2 instance. ex: someone trying to access an EC2 instance with the IP address
 
       ![image](https://github.com/user-attachments/assets/3cda27b2-ca99-4a64-8635-06d04a1d35b4)
 
@@ -23,7 +23,20 @@
     
       ![image](https://github.com/user-attachments/assets/d97d9497-9faa-4697-86d8-6784846bebbc)
       
+      **Website accessible**
+
+      ![image](https://github.com/user-attachments/assets/7135aaca-e5ff-452a-b22c-d23a2e7293c0)
+
+      **HTTP REMOVED**
+
+      ![image](https://github.com/user-attachments/assets/02e14419-62fd-40e0-925e-46845a6f0515)
+      
+      **WEBSITE TIMEOUT ERROR (KEEPS ON LOADING)**
+
+      ![image](https://github.com/user-attachments/assets/101b7003-6660-49bf-b01a-9506ccb192f2)
+
+      **CONFIGURE HTTP INBOUND RULE**
 
 
-      Outbound: traffic going out of the EC2 instance. EC2 instance trying to access any api/site to get information.
+      **Outbound**: traffic going out of the EC2 instance. EC2 instance trying to access any api/site to get information.
 
