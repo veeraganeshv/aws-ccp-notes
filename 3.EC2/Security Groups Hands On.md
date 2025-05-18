@@ -57,6 +57,9 @@
 
       ![image](https://github.com/user-attachments/assets/7c3d1397-3f1d-4e08-9539-8f9bc7516aa5)
 
+      Likewise, we can add many inbound rules to a security group. Ex: Adding HTTP Rule to the inbound rules.
+
+      ![image](https://github.com/user-attachments/assets/e74b1f81-0cbc-4d18-a311-b9c2f1463c70)
 
 
 
