@@ -27,7 +27,7 @@
 
       ![image](https://github.com/user-attachments/assets/7135aaca-e5ff-452a-b22c-d23a2e7293c0)
 
-      **HTTP REMOVED**
+      **HTTP REMOVED** (Updated the inbound rules: Deleted the existing rule and clicked save rules)
 
       ![image](https://github.com/user-attachments/assets/02e14419-62fd-40e0-925e-46845a6f0515)
       
@@ -36,6 +36,24 @@
       ![image](https://github.com/user-attachments/assets/101b7003-6660-49bf-b01a-9506ccb192f2)
 
       **CONFIGURE HTTP INBOUND RULE**
+
+      ![image](https://github.com/user-attachments/assets/1bb90d8b-71b4-4c9f-9c99-b9166127d4a6)
+
+      ![image](https://github.com/user-attachments/assets/540ec79c-4106-476b-abb6-bcfeee882e14)
+
+      ![image](https://github.com/user-attachments/assets/a4737397-f222-405a-846c-7f9aeecfb27e)
+
+      ![image](https://github.com/user-attachments/assets/83a52a26-d3a3-4746-9a65-1c09e0fb9dc2)
+
+      ![image](https://github.com/user-attachments/assets/dd62b39a-8d3f-4ae7-a683-a7b1979dfb8c)
+
+      **WEBSITE ACCESSIBLE AGAIN**
+
+      ![image](https://github.com/user-attachments/assets/7c3d1397-3f1d-4e08-9539-8f9bc7516aa5)
+
+
+
+
 
 
       **Outbound**: traffic going out of the EC2 instance. EC2 instance trying to access any api/site to get information.
