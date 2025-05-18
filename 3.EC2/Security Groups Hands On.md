@@ -17,7 +17,7 @@
 
       ![image](https://github.com/user-attachments/assets/3cda27b2-ca99-4a64-8635-06d04a1d35b4)
 
-      Due to inbound rules HTTP, the service (webapp/any backend app) running inside ec2 instance can be accessible from outside. If it is not configured, when the service is accessed, then it will give a timeout error.
+      Due to the inbound rule **HTTP**, the service (webapp/any backend app) running inside ec2 instance can be accessed from anywhere outside. If it is not configured, and when the service is accessed, it will give a timeout error.
 
       **HTTP CONFIGURED**
     
@@ -37,9 +37,15 @@
 
       **CONFIGURE HTTP INBOUND RULE**
 
+      **TYPE UPDATED**
+
       ![image](https://github.com/user-attachments/assets/1bb90d8b-71b4-4c9f-9c99-b9166127d4a6)
 
+      **IPV4 Updated**
+      
       ![image](https://github.com/user-attachments/assets/540ec79c-4106-476b-abb6-bcfeee882e14)
+
+      **Save Rules**
 
       ![image](https://github.com/user-attachments/assets/a4737397-f222-405a-846c-7f9aeecfb27e)
 
