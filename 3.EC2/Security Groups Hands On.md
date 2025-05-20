@@ -64,7 +64,7 @@
       ![image](https://github.com/user-attachments/assets/82797cce-aac2-4894-aca9-20eb2453444e)
 
 
-      **Outbound**: traffic going out of the EC2 instance. EC2 instance trying to access any api/site to get information. It allows traffic to go outside.
+      **Outbound**: traffic going out of the EC2 instance. Ex: EC2 instance trying to access any api/site to get information. Outbound security rules allow traffic to go outside.
 
       ![image](https://github.com/user-attachments/assets/92e022e8-1d2d-4128-bdf0-dad9a44be70e)
 
